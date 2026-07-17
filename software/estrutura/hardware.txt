@@ -1,0 +1,123 @@
+HARDWARE e SOFTWARE em Computadores
+PERSONAL COMPUTER
+
+[MENU]
+
+HOME
+HARDWARE
+SOFTWARE
+
+O que é Hardware?
+
+Hardware é o conjunto de todos os componentes físicos de um computador. São todas as peças que podem ser vistas e tocadas.
+
+Sem o hardware, o computador simplesmente não existiria fisicamente.
+
+Principais Componentes:
+
+Processador (CPU)
+
+[FOTO]
+
+Conhecido como o cérebro do computador, é responsável por executar cálculos e processar todas as informações do sistema.
+
+Funções:
+
+Executar programas
+Processar dados
+Controlar outras peças
+Memória RAM
+
+É a memória utilizada temporariamente pelos programas enquanto estão em execução.
+
+Características:
+
+Muito rápida
+Armazenamento temporário
+Perde os dados quando o computador é desligado
+HD e SSD
+
+São dispositivos responsáveis pelo armazenamento permanente dos arquivos.
+
+HD
+
+[FOTO]
+
+Mais barato
+Possui disco mecânico
+Mais lento
+
+SSD
+
+[FOTO]
+
+Muito mais rápido
+Não possui partes móveis
+Maior desempenho
+Placa-mãe
+
+É o componente responsável por conectar todas as peças do computador.
+
+Ela permite a comunicação entre:
+
+Processador
+Memória RAM
+HD ou SSD
+Placa de vídeo
+Fonte
+Fonte de Alimentação
+
+Transforma a energia elétrica da tomada na energia utilizada pelos componentes internos do computador.
+
+Placa de Vídeo
+
+[FOTO]
+
+Responsável pelo processamento gráfico.
+
+É muito utilizada para:
+
+Jogos
+Edição de vídeos
+Modelagem 3D
+Inteligência Artificial
+Dispositivos de Entrada
+
+São equipamentos utilizados para enviar informações ao computador.
+
+Exemplos:
+
+Teclado
+Mouse
+Scanner
+Microfone
+Webcam
+Dispositivos de Saída
+
+São equipamentos responsáveis por apresentar informações ao usuário.
+
+Exemplos:
+
+Monitor
+Impressora
+Caixa de som
+Projetor
+Curiosidade
+
+O primeiro disco rígido (HD), lançado pela IBM em 1956, pesava cerca de uma tonelada e armazenava apenas aproximadamente 5 MB de dados.
+
+[EXTRA]
+
+Não pare por aqui, acompanhe também outros sites para beneficiar seu conhecimento como futuro profissional na área
+
+Conceitos básicos de Hardware
+Componentes internos do computador
+Dispositivos de entrada e saída
+Conceitos de Software
+Sistemas Operacionais
+Programas e Aplicativos
+Curiosidades sobre tecnologia
+
+para mais informações sobre, acompanhe o curso no canal do curso em vídeo
+
+Henrique Castro Lopes
